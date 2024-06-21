@@ -333,7 +333,6 @@ main {
 
 .avatar-box {
   background: var(--bg-gradient-onyx);
-  border-radius: 300px;
 }
 
 .info-content .name {
@@ -689,8 +688,6 @@ main {
 .modal-avatar-box {
   background: var(--bg-gradient-onyx);
   width: max-content;
-  border-radius: 300px;
-  margin-bottom: 15px;
   box-shadow: var(--shadow-2);
 }
 
